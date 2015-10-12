@@ -96,7 +96,7 @@
     function pre_unload(){
     	
     	
-    	openWait("Plese wait");
+    	openWait("Please wait");
     	
     	$.ajax({
     		type:"POST",
